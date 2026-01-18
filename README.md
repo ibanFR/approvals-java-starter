@@ -27,4 +27,12 @@ Notes:
     * Windows: [WinMerge](winmerge.org/)
     * Linux: [meld](http://meldmerge.org/)
 
+## Meld
+
+To install meld on Ubuntu/Debian:
+
+```
+sudo apt-get install meld
+```
+
 
